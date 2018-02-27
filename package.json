@@ -1,0 +1,23 @@
+{
+  "name": "owh-e2e",
+  "version": "1.0.0",
+  "description": "A few e2e selenium automation tests for OWH",
+  "main": "index.js",
+  "scripts": {
+    "test": "e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjupaul/owh-e2e.git"
+  },
+  "keywords": [
+    "e2e",
+    "protractor"
+  ],
+  "author": "Manju Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manjupaul/owh-e2e/issues"
+  },
+  "homepage": "https://github.com/manjupaul/owh-e2e#readme"
+}
